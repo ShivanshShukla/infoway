@@ -1,0 +1,3 @@
+[submodule "infoway"]
+	path = infoway
+	url = ../infoway
